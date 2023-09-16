@@ -1,4 +1,10 @@
 # React + Vite
+How to run this project 
+1: Download source code and extract it 
+2: Open Vs code 
+3: open terminal
+4: npm install
+5: npm run dev
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
